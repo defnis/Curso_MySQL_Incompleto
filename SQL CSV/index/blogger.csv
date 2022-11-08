@@ -1,0 +1,36 @@
+publicacion_id,Titulo,Contenido,Fecha_posteo
+1,Tipo de dato informatico,"Un tipo de dato es, un espacio en memorias con restricciones. Por ejemplo, el tipo ""int"" representa, generalmente, un conjunto de enteros de 32 bits cuyo rango va desde el -2.147.483.648 al 2.147.483.647, así como las operaciones que se pueden realizar con los enteros, como son la suma, la resta, y la multiplicación. Los colores, por su parte, se representan como tres bytes denotando la cantidad de rojo, verde y azul, y una cadena de caracteres representando el nombre del color (en este caso, las operaciones permitidas incluyen la adición y la sustracción, pero no la multiplicación).
+Este es un concepto propio de la informática, y más específicamente de los lenguajes de programación, aunque también se encuentra relacionado con nociones similares de la matemática y la lógica.El tipo de dato lógico o booleano es en computación aquel que puede representar valores de lógica binaria, esto es 2 valores, que normalmente representan falso o verdadero.? Se utiliza normalmente en la programación, estadística, electrónica, matemáticas,",19-nov-19
+2,Lenguaje PHP,"PHP es un lenguaje de programación de uso general que se adapta especialmente al desarrollo web.2? Fue creado inicialmente por el programador danés-canadiense Rasmus Lerdorf en 1994.3? En la actualidad, la implementación de referencia de PHP es producida por The PHP Group.4? PHP originalmente significaba Personal Home Page (Página personal), pero ahora significa el inicialismon 1? recursivo PHP: Hypertext Preprocessor.6?
+
+El código PHP suele ser procesado en un servidor web por un intérprete PHP implementado como un módulo, un daemon o como un ejecutable de interfaz de entrada común (CGI). En un servidor web, el resultado del código PHP interpretado y ejecutado —que puede ser cualquier tipo de datos, como el HTML generado o datos de imágenes binarias— formaría la totalidad o parte de una respuesta HTTP. Existen diversos sistemas de plantillas, sistemas de gestión de contenidos y frameworks que pueden emplearse para organizar o facilitar la generación de esa respuesta. Por otra parte, PHP puede utilizarse para muchas tareas de programación fuera del contexto de la web, como aplicaciones gráficas autónomas7? y el control de drones.8? También se puede interpretar y ejecutar un código PHP cualquiera a través de una interfaz de línea de comandos (CLI).",13-jun-19
+3,Programacion Basica,"Los tipos de datos en un lenguaje de programación pueden ser muy variados, así que es difícil preguntarte cuantos tipos de datos hay en un lenguaje, ya que incluso puedes crearte los tuyos propios, mediante enumeraciones o estructuras. Ponemos tres ejemplos de tipos de datos básicos que son los más utilizados: los números, los textos y las fechas. Si estamos con textos, podemos comparar (si son iguales o no), podemos sustituir parte del texto, añadir texto a uno existente, etc. Cada lenguaje de programación puede trabajar con muchos tipos de datos.
+
+Pero de todos ellos, siempre tendremos los tipos primitivos de datos.
+
+Éstos están incorporados al lenguaje de programación, y nos sirve para poder hacer cosas más complicadas.
+
+Vamos a hablar de los tipos de datos más comunes, que te puedes encontrar en la mayoría de los lenguajes de programación, como puede ser Java, C o C++.",08-sep-19
+4,Informatica y booleano,"Los tipos de datos hacen referencia al tipo de información que se trabaja, donde la unidad mínima de almacenamiento es el dato, también se puede considerar como el rango de valores que puede tomar una variable durante la ejecución del programa. El tipo de dato carácter es un dígito individual el cual se puede representar como numéricos (0 al 9), letras (a-z) y símbolos (!""$&/\). Booleanos es un tipo de dato que se emplea para valores lógicos, los podemos definir como datos comparativos dicha comparación devuelve resultados lógicos (Verdadero o Falso). Booleano, String, Integer. ",06-dic-19
+5,Variables y tipos de datos,"Todo programa de ordenador persigue ofrecer una funcionalidad determinada para la que, por regla general, necesitará almacenar y manipular información. Dicha información, que son los datos sobre los que operaremos, deben almacenarse temporalmente en la memoria del ordenador. Para poder almacenar y recuperar fácilmente información en la memoria de un ordenador los lenguajes de programación ofrecen el concepto de variables, que no son más que nombres que ""apuntan"" a una determinada parte de la memoria y que el lenguaje utiliza para escribir y leer en esta de manera controlada.",19-ago-19
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
